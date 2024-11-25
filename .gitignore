@@ -1,0 +1,7 @@
+# Ignore les checkpoints de Jupyter
+.ipynb_checkpoints/
+./notebooks/.ipynb_checkpoints/
+# Ignore les fichiers systèmes spécifiques
+.DS_Store
+Thumbs.db
+
